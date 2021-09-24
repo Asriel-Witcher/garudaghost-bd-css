@@ -1,5 +1,5 @@
 /**
- * @name ClearVision - GarudaGhost orignal
+ * @name ClearVision - GarudaGhost
  * @author ClearVision Team, modified by Asriel-Witcher
  * @version 6.1.2
  * @description Highly customizable theme for BetterDiscord.
@@ -11,6 +11,7 @@
 /* Credits to Zerthox for making the original theme. */
 
 /* IMPORT CSS */
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css);
 @import url(https://clearvision.gitlab.io/v6/main.css);
 /* DEFAULT SETTINGS */
 :root {
